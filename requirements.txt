@@ -1,5 +1,7 @@
-altair
-numpy
-pandas
-pydeck
 streamlit
+seaborn
+statsmodels
+koreanize-matplotlib
+openai
+scikit-learn
+stemgraphic
